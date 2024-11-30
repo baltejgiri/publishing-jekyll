@@ -1,5 +1,5 @@
-title: Welcome to my Jekyll page.
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Welcome to my portfolio.
+description: Place to navigate on documentation, labs, code and more.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
